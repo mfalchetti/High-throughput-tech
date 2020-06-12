@@ -1,3 +1,10 @@
+RPKM, FPKM and TPM, Clearly Explained!!!
+https://www.youtube.com/watch?v=TTUrtCY2k-w
+
+What the FPKM? A review of RNA-Seq expression units
+https://haroldpimentel.wordpress.com/2014/05/08/what-the-fpkm-a-review-rna-seq-expression-units/#:~:text=Therefore%2C%20let's%20clear%20one%20thing,simply%20a%20unit%20of%20expression.&text=fragments%20you've%20sequenced.,to%20make%20it%20more%20convenient.
+
+
 #### RPKM - Reads Per Kilobase Million
     
   is for single end RNA-Seq
